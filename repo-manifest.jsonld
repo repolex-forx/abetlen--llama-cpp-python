@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/abetlen/llama-cpp-python/commit/1652066e0af45f2313b339670ef9555e8a54e545",
       "git:hexsha": "1652066e0af45f2313b339670ef9555e8a54e545",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.3.36-vulkan"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.3.36-vulkan",
+      "repolex:parsedAt": "2026-10-17T14:00:34.647281+00:00"
     },
     {
       "@id": "https://repolex.ai/r/abetlen/llama-cpp-python/commit/a984f55d796c610e184a8f34aa96a6cc58bf2b2e",
